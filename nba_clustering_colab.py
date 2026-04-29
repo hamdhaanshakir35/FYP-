@@ -24,7 +24,7 @@
 # CELL 2 ── Import Libraries
 # ═══════════════════════════════════════════════════════════
 
-import pandas as pd
+import pandas as pdf
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
